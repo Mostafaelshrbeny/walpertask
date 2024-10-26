@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609290298225",
+    "project_id": "wallpaper-549f3",
+    "storage_bucket": "wallpaper-549f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609290298225:android:5ee380021f9c08da39ccd0",
+        "android_client_info": {
+          "package_name": "com.wallpapertask.zetaton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGE3blb7kaLKS9EsFMWWkyjC4kVJD8EBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
