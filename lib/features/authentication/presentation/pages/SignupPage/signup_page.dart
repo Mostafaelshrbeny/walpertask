@@ -70,19 +70,6 @@ class SignupPage extends StatelessWidget {
                     },
                   ),
                   Gap(20.h),
-                  Align(
-                      alignment: Alignment.centerRight,
-                      child: TextButton(
-                        onPressed: () {},
-                        child: Text(
-                          "Forgot Your Password?",
-                          style: Theme.of(context)
-                              .textTheme
-                              .displayMedium!
-                              .copyWith(color: ColorHelper.buttonColor),
-                        ),
-                      )),
-                  Gap(20.h),
                   Consumer<SignupProvider>(builder: (context, value, child) {
                     return AppCustomButton(
                       ontap: () {
